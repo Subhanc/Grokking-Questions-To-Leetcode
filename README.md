@@ -1,5 +1,5 @@
 # Grokking-Questions-To-Leetcode
-A list of all grokking questions linked to leetcode 
+A list of all Grokking the coding interview questions linked to leetcode 
 
 
 ## **1. Pattern: Sliding Window**
