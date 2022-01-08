@@ -19,7 +19,7 @@ A list of all grokking questions linked to leetcode
 ## **2. Pattern: Two Pointers**
 
 - [ ]  [Pair with Target Sum (easy)](https://leetcode.com/problems/two-sum/)
-- [ ]  [Remove Duplicates (easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) // try again
+- [ ]  [Remove Duplicates (easy)](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ]  [Squaring a Sorted Array (easy)](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ]  [Triplet Sum to Zero (medium)](https://leetcode.com/problems/3sum/)
 - [ ]  [Triplet Sum Close to Target (medium)](https://leetcode.com/problems/3sum-closest/)
