@@ -177,7 +177,7 @@ A list of all Grokking the coding interview questions linked to leetcode
 ## **17. Miscellaneous  + Extras**
 
 - [ ]  Kth Smallest Number (hard) *
-- [ ]  [Minimum-Add-Valid-Parentheses](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)  / Minimum remove parthsses for operations
+- [ ]  [Minimum-Add-Valid-Parentheses](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 - [ ]  [Minimum-Remove-Paretheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - [ ]  [Find if Valid Path Exists In Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 - [ ]  [Find Shorest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
