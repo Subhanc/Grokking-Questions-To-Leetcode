@@ -56,8 +56,8 @@ A list of all Grokking the coding interview questions linked to leetcode
 - [ ]  [Binary Tree Path Sum (easy)](https://leetcode.com/problems/path-sum/)
 - [ ]  [All Paths for a Sum (medium) *](https://leetcode.com/problems/path-sum-ii/)
 - [ ]  [Sum of Path Numbers (medium)](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
-- [ ]  Path With Given Sequence (medium) *
-- [ ]  Count Paths for a Sum (medium)
+- [ ]  [Path With Given Sequence (medium)](https://leetcode.com/problems/binary-tree-paths/)
+- [ ]  [Count Paths for a Sum (medium)](https://leetcode.com/problems/path-sum-iii/)
 - [ ]  [Problem Challenge 1 - Tree Diameter (medium) *](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ]  [Problem Challenge 2 - Path with Maximum Sum (hard) *](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
@@ -86,7 +86,7 @@ A list of all Grokking the coding interview questions linked to leetcode
 - [ ]  [Combinations](https://leetcode.com/problems/combinations/)
 - [ ]  [String Permutations by changing case (medium)](https://leetcode.com/problems/letter-case-permutation/)
 - [ ]  [Balanced Parentheses (hard) *](https://leetcode.com/problems/generate-parentheses/)
-- [ ]  Unique Generalized Abbreviations (hard) *
+- [ ]  [Unique Generalized Abbreviations] (hard)(https://leetcode.com/problems/generalized-abbreviation/)
 - [ ]  Problem Challenge 1 - Evaluate Expression (hard) *
 - [ ]  Problem Challenge 2 - Structurally Unique Binary Search Trees (hard) *
 - [ ]  Problem Challenge 3 - Count of Structurally Unique Binary Search Trees (hard)
@@ -97,7 +97,7 @@ A list of all Grokking the coding interview questions linked to leetcode
 - [ ]  Ceiling of a Number (medium) *
 - [ ]  [Next Letter (medium)](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [ ]  [Number Range (medium) *](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [ ]  Search in a Sorted Infinite Array (medium) *
+- [ ]  [Search in a Sorted Infinite Array (medium)](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [ ]  [Minimum Difference Element (medium)](https://leetcode.com/problems/minimum-absolute-difference/)
 - [ ]  [Bitonic Array Maximum (easy)](https://leetcode.com/problems/monotonic-array/)
 - [ ]  Problem Challenge 1 - Search Bitonic Array (medium)
@@ -107,26 +107,26 @@ A list of all Grokking the coding interview questions linked to leetcode
 ## **16. Pattern: Topological Sort (Graph)**
 
 - [ ]  Topological Sort (medium) *
-- [ ]  Tasks Scheduling (medium)
+- [ ]  [Tasks Scheduling] (medium)(https://leetcode.com/problems/task-scheduler/)
 - [ ]  Tasks Scheduling Order (medium)
-- [ ]  All Tasks Scheduling Orders (hard) *
-- [ ]  Alien Dictionary (hard)
+- [ ]  All Tasks Scheduling Orders (hard)
+- [ ]  [Alien Dictionary (hard)](https://leetcode.com/problems/alien-dictionary/)
 - [ ]  Problem Challenge 1 - Reconstructing a Sequence (hard) *
-- [ ]  Problem Challenge 2 - Minimum Height Trees (hard) *
+- [ ]  [Problem Challenge 2 - Minimum Height Trees (hard)](https://leetcode.com/problems/minimum-height-trees/)
 
 ## **6. Pattern: In-place Reversal of a LinkedList**
 
 - [ ]  [Reverse a LinkedList (easy)](https://leetcode.com/problems/reverse-linked-list/)
 - [ ]  [Reverse a Sub-list (medium)](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [ ]  [Reverse every K-element Sub-list (medium) *](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-- [ ]  Problem Challenge 1 - Reverse alternating K-element Sub-list (medium)
+- [ ]  [Problem Challenge 1 - Reverse alternating K-element Sub-list (medium)](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [ ]  [Problem Challenge 2 - Rotate a LinkedList (medium)](https://leetcode.com/problems/rotate-list/)
 
 ## **5.Pattern: Cyclic Sort**
 
 - [ ]  Cyclic Sort (easy)
 - [ ]  [Find the Missing Number (easy)](https://leetcode.com/problems/missing-number/)
-- [ ]  Find all Missing Numbers (easy)
+- [ ]  [Find all Missing Numbers (easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ]  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) (easy)
 - [ ]  [Find all Duplicate Numbers](https://leetcode.com/problems/find-all-duplicates-in-an-array/) (easy)
 - [ ]  [Problem Challenge 1 - Find the Corrupt Pair (easy)](https://leetcode.com/problems/set-mismatch/)
@@ -141,8 +141,8 @@ A list of all Grokking the coding interview questions linked to leetcode
 - [ ]  [Connect Ropes (easy) *](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 - [ ]  [Top 'K' Frequent Numbers (medium)](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ]  Frequency Sort (medium) *
-- [ ]  Kth Largest Number in a Stream (medium)
-- [ ]  'K' Closest Numbers (medium)
+- [ ]  [Kth Largest Number in a Stream (medium)](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [ ]  ['K' Closest Numbers (medium)](https://leetcode.com/problems/find-k-closest-elements/)
 - [ ]  Maximum Distinct Elements (medium)
 - [ ]  Sum of Elements (medium)
 - [ ]  Rearrange String (hard)
@@ -161,17 +161,17 @@ A list of all Grokking the coding interview questions linked to leetcode
 
 ## **14. Pattern: K-way merge**
 
-- [ ]  Merge K Sorted Lists (medium) *
+- [ ]  [Merge K Sorted Lists (medium)](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ]  Kth Smallest Number in M Sorted Lists (Medium)
-- [ ]  Kth Smallest Number in a Sorted Matrix (Hard) *
+- [ ]  [Kth Smallest Number in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) (Hard) *
 - [ ]  Smallest Number Range (Hard) *
 - [ ]  Problem Challenge 1 - K Pairs with Largest Sums (Hard)
 
 ## **12. Pattern: Bitwise XOR**
 
-- [ ]  Single Number (easy)
+- [ ]  [Single Number (easy)](https://leetcode.com/problems/single-number/)
 - [ ]  Two Single Numbers (medium) *
-- [ ]  Complement of Base 10 Number (medium)
+- [ ]  [Complement of Base 10 Number (medium)](https://leetcode.com/problems/complement-of-base-10-integer/)
 - [ ]  Problem Challenge 1
 
 ## **17. Miscellaneous  + Extras**
