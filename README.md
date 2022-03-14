@@ -136,7 +136,7 @@ A list of all Grokking the coding interview questions linked to leetcode
 ## **13. Pattern Top 'K' Elements**
 
 - [ ]  [Top 'K' Numbers (easy)](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/)
-- [ ]  [Kth Smallest Number (easy)](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) // No leeetcode but just switch max heap to min heap.
+- [ ]  [Kth Smallest Number (easy)](https://leetcode.com/problems/kth-largest-element-in-an-array/solution/) 
 - [ ]  ['K' Closest Points to the Origin (easy)](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [ ]  [Connect Ropes (easy) *](https://leetcode.com/problems/minimum-cost-to-merge-stones/)
 - [ ]  [Top 'K' Frequent Numbers (medium)](https://leetcode.com/problems/top-k-frequent-elements/)
